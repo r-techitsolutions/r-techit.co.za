@@ -21,13 +21,12 @@ with your existing WhatsApp QR image, keeping the same filename.
 ## Email
 The reveal button currently uses:
 
-`info@r-techit.co.za`
+`r-tech-itsolutions@outlook.com`
 
 To change it, edit these two lines in `js/script.js`:
 
 ```js
-const emailUser = 'info';
-const emailDomain = 'r-techit.co.za';
+const contactEmail = 'r-tech-itsolutions@outlook.com';
 ```
 
 ## GitHub Pages
